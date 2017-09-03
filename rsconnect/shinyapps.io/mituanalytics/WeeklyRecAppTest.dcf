@@ -1,0 +1,11 @@
+name: WeeklyRecAppTest
+title:
+account: mituanalytics
+server: shinyapps.io
+appId: 145264
+bundleId: 736125
+url: https://mituanalytics.shinyapps.io/WeeklyRecAppTest/
+when: 1488840895.1319
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|2017-02-23 .csv|2017-02-27 .csv|2017-02-28 .csv|2017-03-01 .csv|2017-03-02 .csv|2017-03-03 .csv|2017-03-06 .csv|Bubbles.R|data_articles.csv|Facebook Insights.R|geo_data.csv|Images|SS by Category.R|testl.csv|WeekLinks.Rda|data/Facebook Insights.csv|data/Facebook Insights.Rda|data/LinkData.csv|data/LinkData.Rda|data/Pareto_SS.csv|data/Pareto_SS_Inter.csv|data/PhotoData.csv|data/PhotoData.Rda|data/Sentiment_short_identities.csv|data/VideoData.csv|data/VideoData.Rda|data/wearemitu comment_summary 2015-11-01 - 2016-07-31 link.csv

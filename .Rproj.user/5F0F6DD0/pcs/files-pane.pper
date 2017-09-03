@@ -1,0 +1,9 @@
+{
+    "path" : "~/WeeklyRecApp",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
